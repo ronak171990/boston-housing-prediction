@@ -59,9 +59,3 @@ y_pred_lr = lr_model.predict(X_test)
 print("Linear Regression MSE:", mean_squared_error(y_test, y_pred_lr))
 print("Linear Regression R2:", r2_score(y_test, y_pred_lr))
 
-import joblib
-joblib.dump(model, "random_forest_boston.pkl")
-
-
-git config --global ronak171990 "Your Name"
-git config --global ronakpatel171990@gmail.com "your.email@example.com"
