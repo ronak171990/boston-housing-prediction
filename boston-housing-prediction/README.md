@@ -31,6 +31,22 @@ Build a regression model to predict the median value of owner-occupied homes (`M
 - **R² Score**: _(Add your score here)_
 - Feature importance and prediction vs actual values are visualized in the `plots/` folder.
 
+## 🖼️ Visualizations
+
+### 🔹 Prediction vs Actual Values
+This plot shows how close the model's predictions are to the actual housing prices.
+
+![Prediction vs Actual](plots/pred_vs_actual.png)
+
+---
+
+### 🔹 Feature Importance
+This bar chart highlights which features (like number of rooms or crime rate) are most influential in predicting house prices.
+
+![Feature Importance](plots/feature_importance.png)
+
+
+
 ---
 
 ## 🚀 How to Run
