@@ -6,7 +6,7 @@ This project uses a machine learning model to predict Boston housing prices base
 
 ## 📊 Project Structure
 
-- **R² Score**: 0.86 _(example — add actual value from model evaluation)_
+
 ---
 
 ## 💡 Objective
@@ -36,7 +36,9 @@ Build a regression model to predict the median value of owner-occupied homes (`M
 ### 🔹 Prediction vs Actual Values
 This plot shows how close the model's predictions are to the actual housing prices.
 
-![Prediction vs Actual](plots/pred_vs_actual.png)---
+![Prediction vs Actual](plots/pred_vs_actual.png)
+
+---
 
 ### 🔹 Feature Importance
 This bar chart highlights which features (like number of rooms or crime rate) are most influential in predicting house prices.
@@ -44,7 +46,9 @@ This bar chart highlights which features (like number of rooms or crime rate) ar
 ![Feature Importance](plots/feature_importance.png)
 
 
+
 ---
+
 ## 🚀 How to Run
 
 1. Clone the repository:
